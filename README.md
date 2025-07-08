@@ -1,6 +1,6 @@
 # ⚖️ Legally-Shortieee
 
-Welcome to my digital law school prep binder where cybersecurity and big dreams, meets case law and courtroom dreams. This is my journey from securing clouds to studying case law. If you’re a first-gen student, a career switcher, or just nosy (👀), you’re in the right place.
+Welcome to my digital law school prep binder where cybersecurity and big dreams meet case law and courtroom dreams. This is my journey from securing clouds to studying case law. If you’re a first-gen student, a career switcher, or just nosy (👀), you’re in the right place.
 
 ## 📚 What You’ll Find Here
 
@@ -19,7 +19,7 @@ Welcome to my digital law school prep binder where cybersecurity and big dreams,
 
 ## 💬 Why I'm Doing This
 
-I’m documenting this journey not just for me but for anyone else who’s ever felt like law school wasn’t made with us in mind. This repo is how I’m staying grounded, growing, and helping others along the way.
+I’m documenting this journey not just for me but for anyone else who’s ever felt like law school wasn’t made with them in mind. This repo is how I’m staying grounded, growing, and helping others along the way.
 
 > *“Move smart. Be smart.”* – Cybershortieee
 
@@ -27,7 +27,7 @@ I’m documenting this journey not just for me but for anyone else who’s ever 
 
 ## 👩🏽‍💻 About Me
 
-I’m **Cybershortieee** a Security Cloud Architect, Cybersecurity Instructor, mental health advocate, and now... aspiring JD.  
+I’m **Cybershortieee** a Security Cloud Architect, Cybersecurity Instructor, tech/cybersecurity podcast cohost, mental health advocate, and now... aspiring JD.  
 
 Find me on:  
 📱 Instagram: [@cybershortieee](https://instagram.com/cybershortieee)  
